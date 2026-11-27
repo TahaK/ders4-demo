@@ -1,0 +1,321 @@
+sikayet_id,tarih,kanal,sehir,metin,gorusme_suresi_dk
+S0001,2026-10-10,Web form,İstanbul,Akşam saatlerinde internet çok yavaşlıyor. Daha önce de bildirmiştim.,
+S0002,2026-11-07,Telefon,Bursa,Faturamda tanımadığım bir ek ücret var.,18
+S0003,2026-10-05,Telefon,Eskişehir,Üç gündür evde internet yok.,4
+S0004,2026-10-08,Telefon,Gaziantep,"Bir saattir bekletiliyorum, kimse açmıyor. Daha önce de bildirmiştim.",22
+S0005,2026-10-04,Telefon,Eskişehir,Yurt dışında hattım açılmadı. Çok mağdur oldum.,3
+S0006,2026-11-04,Telefon,Antalya,Fiber altyapı geldi denildi ama bağlanamıyorum. Lütfen acil dönüş yapın.,20
+S0007,2026-11-06,Sosyal medya,Bursa,Kampanya indirimi faturaya yansımamış.,
+S0008,2026-10-05,Mobil uygulama,İstanbul,Yurt dışında hattım açılmadı. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0009,2026-10-28,E-posta,Konya,Öğrenci kampanyasına geçemiyorum. Daha önce de bildirmiştim.,
+S0010,2026-10-24,Telefon,İzmir,Kargo hasarlı teslim edildi.,9
+S0011,2026-11-03,Web form,Konya,Yeni aldığım hatta SMS gelmiyor. Çok mağdur oldum.,
+S0012,2026-10-05,Telefon,Adana,Söz verilen ek GB tanımlanmamış. Çok mağdur oldum.,18
+S0013,2026-11-01,Web form,İstanbul,Faturamda tanımadığım bir ek ücret var. Daha önce de bildirmiştim.,
+S0014,2026-11-22,Telefon,Konya,Yeni aldığım hatta SMS gelmiyor. Daha önce de bildirmiştim.,12
+S0015,2026-10-05,E-posta,Ankara,Aynı sorun için dördüncü kez arıyorum. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0016,2026-10-05,Telefon,Antalya,Öğrenci kampanyasına geçemiyorum. Çok mağdur oldum.,25
+S0017,2026-11-12,Telefon,Trabzon,Kampanyadan haberim olmadan paketim değiştirilmiş. Lütfen acil dönüş yapın.,2
+S0018,2026-11-01,Telefon,Antalya,Söz verilen ek GB tanımlanmamış. Lütfen acil dönüş yapın.,8
+S0019,2026-11-25,Web form,Ankara,Modem sürekli bağlantıyı kesiyor. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0020,2026-10-18,Telefon,Eskişehir,Taahhüt edilen hızın yarısını bile alamıyorum. Aboneliğimi iptal etmeyi düşünüyorum.,15
+S0021,2026-11-13,Web form,Bursa,Numara taşıma işlemim bir haftadır bekliyor.,
+S0022,2026-10-15,Sosyal medya,Bursa,Faturamda tanımadığım bir ek ücret var. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0023,2026-10-12,Telefon,İstanbul,Temsilci sorunumu çözmeden görüşmeyi kapattı. Aboneliğimi iptal etmeyi düşünüyorum.,11
+S0024,2026-11-09,Mobil uygulama,Konya,Yurt dışında hattım açılmadı. Daha önce de bildirmiştim.,
+S0025,2026-11-11,Sosyal medya,İstanbul,Taşıma sırasında hattım tamamen kapandı. Daha önce de bildirmiştim.,
+S0026,2026-10-26,Web form,Ankara,Üç gündür evde internet yok. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0027,2026-10-05,Telefon,İzmir,Faturamda tanımadığım bir ek ücret var. Çok mağdur oldum.,16
+S0028,2026-10-07,Telefon,İzmir,Paket değişikliğim yapılmamış. Çok mağdur oldum.,20
+S0029,2026-10-05,E-posta,Bursa,Öğrenci kampanyasına geçemiyorum. Lütfen acil dönüş yapın.,
+S0030,2026-10-23,Mobil uygulama,Konya,Öğrenci kampanyasına geçemiyorum.,
+S0031,2026-11-01,Web form,Trabzon,İptal ettiğim hizmet hâlâ faturada görünüyor. Çok mağdur oldum.,
+S0032,2026-10-07,Sosyal medya,Konya,Kampanya indirimi faturaya yansımamış. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0033,2026-10-11,Mobil uygulama,İstanbul,Temsilci sorunumu çözmeden görüşmeyi kapattı. Daha önce de bildirmiştim.,
+S0034,2026-11-14,Mobil uygulama,İstanbul,Fiber altyapı geldi denildi ama bağlanamıyorum. Çok mağdur oldum.,
+S0035,2026-11-25,Telefon,Antalya,Taşıma sırasında hattım tamamen kapandı. Lütfen acil dönüş yapın.,24
+S0036,2026-10-15,Mobil uygulama,Eskişehir,Fiber altyapı geldi denildi ama bağlanamıyorum. Çok mağdur oldum.,
+S0037,2026-11-09,E-posta,Bursa,Söz verilen ek GB tanımlanmamış. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0038,2026-10-15,Telefon,Trabzon,Kampanyadan haberim olmadan paketim değiştirilmiş.,18
+S0039,2026-11-20,Telefon,Antalya,Numara taşıma işlemim bir haftadır bekliyor. Daha önce de bildirmiştim.,17
+S0040,2026-10-29,E-posta,Konya,Taşıma sırasında hattım tamamen kapandı.,
+S0041,2026-10-15,Web form,Bursa,Kampanya indirimi faturaya yansımamış. Lütfen acil dönüş yapın.,
+S0042,2026-11-09,E-posta,İstanbul,Yeni aldığım hatta SMS gelmiyor. Çok mağdur oldum.,
+S0043,2026-10-06,E-posta,Ankara,Verilen geri dönüş sözü tutulmadı. Lütfen acil dönüş yapın.,
+S0044,2026-10-12,Web form,Konya,Evde telefonum çekmiyor. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0045,2026-11-17,Telefon,İzmir,Yurt dışında hattım açılmadı. Lütfen acil dönüş yapın.,25
+S0046,2026-11-07,Web form,İzmir,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Daha önce de bildirmiştim.",
+S0047,2026-11-12,Telefon,Eskişehir,Numara taşıma işlemim bir haftadır bekliyor.,6
+S0048,2026-11-16,Sosyal medya,Ankara,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Lütfen acil dönüş yapın.",
+S0049,2026-11-25,Telefon,İstanbul,Taahhüt edilen hızın yarısını bile alamıyorum. Lütfen acil dönüş yapın.,8
+S0050,2026-10-16,E-posta,Gaziantep,Taahhüt edilen hızın yarısını bile alamıyorum. Çok mağdur oldum.,
+S0051,2026-11-23,Telefon,Konya,Yeni aldığım hatta SMS gelmiyor. Daha önce de bildirmiştim.,3
+S0052,2026-11-03,Web form,Eskişehir,Temsilci sorunumu çözmeden görüşmeyi kapattı. Daha önce de bildirmiştim.,
+S0053,2026-11-02,telefon ,İzmir,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş.",16
+S0054,2026-10-10,Telefon,Trabzon,"Bir saattir bekletiliyorum, kimse açmıyor. Daha önce de bildirmiştim.",6
+S0055,2026-11-13,Mobil uygulama,Eskişehir,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Aboneliğimi iptal etmeyi düşünüyorum.",
+S0056,2026-10-07,Mobil uygulama,İstanbul,Temsilci sorunumu çözmeden görüşmeyi kapattı. Lütfen acil dönüş yapın.,
+S0057,2026-11-19,Telefon,Trabzon,Fiber altyapı geldi denildi ama bağlanamıyorum.,18
+S0058,2026-10-05,Web form,Konya,Temsilci sorunumu çözmeden görüşmeyi kapattı. Çok mağdur oldum.,
+S0059,2026-11-04,E-posta,Trabzon,Fiber altyapı geldi denildi ama bağlanamıyorum. Lütfen acil dönüş yapın.,
+S0060,2026-10-17,Mobil uygulama,Bursa,Öğrenci kampanyasına geçemiyorum. Lütfen acil dönüş yapın.,
+S0061,2026-10-26,Web form,Konya,Akşam saatlerinde internet çok yavaşlıyor. Lütfen acil dönüş yapın.,
+S0062,2026-10-14,Sosyal medya,Antalya,Akşam saatlerinde internet çok yavaşlıyor. Lütfen acil dönüş yapın.,
+S0063,2026-11-11,Sosyal medya,Konya,Kargo hasarlı teslim edildi. Çok mağdur oldum.,
+S0064,2026-10-30,Telefon,Ankara,Garantideki cihazım servisten dönmedi. Aboneliğimi iptal etmeyi düşünüyorum.,25
+S0065,2026-11-12,E-posta,Bursa,"Bu ay faturam iki katına çıkmış, açıklama istiyorum. Aboneliğimi iptal etmeyi düşünüyorum.",
+S0066,2026-10-26,Telefon,Bursa,Taşıma sırasında hattım tamamen kapandı. Çok mağdur oldum.,15
+S0067,2026-10-24,Telefon,Eskişehir,İptal ettiğim hizmet hâlâ faturada görünüyor. Aboneliğimi iptal etmeyi düşünüyorum.,12
+S0068,2026-10-25,Telefon,Gaziantep,Kampanyadan haberim olmadan paketim değiştirilmiş. Daha önce de bildirmiştim.,18
+S0069,2026-10-08,E-posta,Bursa,Numara taşıma işlemim bir haftadır bekliyor.,
+S0070,2026-10-03,E-posta,İzmir,Taahhüt edilen hızın yarısını bile alamıyorum. Lütfen acil dönüş yapın.,
+S0071,2026-11-24,Sosyal medya,Antalya,Verilen geri dönüş sözü tutulmadı. Lütfen acil dönüş yapın.,
+S0072,2026-11-02,Mobil uygulama,Trabzon,Aramalar sık sık kesiliyor.,
+S0073,2026-11-21,Sosyal medya,İzmir,Üç gündür evde internet yok.,
+S0074,2026-10-02,Sosyal medya,Ankara,Taahhüt edilen hızın yarısını bile alamıyorum.,
+S0075,2026-10-15,Telefon,Ankara,Öğrenci kampanyasına geçemiyorum.,10
+S0076,2026-11-05,Web form,Antalya,Fiber altyapı geldi denildi ama bağlanamıyorum. Lütfen acil dönüş yapın.,
+S0077,2026-11-15,Telefon,İzmir,Kampanya indirimi faturaya yansımamış.,5
+S0078,2026-10-20,Sosyal medya,Antalya,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Lütfen acil dönüş yapın.",
+S0079,2026-11-02,Sosyal medya,İzmir,Taahhüt edilen hızın yarısını bile alamıyorum. Çok mağdur oldum.,
+S0080,2026-10-17,Telefon,İstanbul,Temsilci sorunumu çözmeden görüşmeyi kapattı. Daha önce de bildirmiştim.,2
+S0081,2026-10-29,Telefon,Adana,Yeni aldığım hatta SMS gelmiyor. Daha önce de bildirmiştim.,23
+S0082,2026-10-26,Mobil uygulama,Antalya,Temsilci sorunumu çözmeden görüşmeyi kapattı. Lütfen acil dönüş yapın.,
+S0083,2026-11-23,Sosyal medya,İzmir,Üç gündür evde internet yok. Çok mağdur oldum.,
+S0084,2026-11-23,Telefon,Ankara,Taşıma sırasında hattım tamamen kapandı. Aboneliğimi iptal etmeyi düşünüyorum.,2
+S0085,2026-10-06,Sosyal medya,Adana,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Çok mağdur oldum.",
+S0086,2026-11-14,Telefon,Trabzon,Yurt dışında hattım açılmadı. Lütfen acil dönüş yapın.,3
+S0087,2026-10-01,Telefon,Konya,Fiber altyapı geldi denildi ama bağlanamıyorum. Çok mağdur oldum.,13
+S0088,2026-10-20,Telefon,İzmir,Akşam saatlerinde internet çok yavaşlıyor. Çok mağdur oldum.,13
+S0089,2026-10-31,Telefon,Bursa,Modem sürekli bağlantıyı kesiyor. Daha önce de bildirmiştim.,18
+S0090,2026-10-06,Telefon,İzmir,Verilen geri dönüş sözü tutulmadı. Daha önce de bildirmiştim.,4
+S0091,2026-10-02,Telefon,Bursa,Faturamda tanımadığım bir ek ücret var. Daha önce de bildirmiştim.,11
+S0092,2026-11-24,E-posta,İzmir,Taşıma sırasında hattım tamamen kapandı. Çok mağdur oldum.,
+S0093,2026-11-01,Telefon,Gaziantep,Söz verilen ek GB tanımlanmamış.,11
+S0094,2026-11-15,Mobil uygulama,Adana,Temsilci sorunumu çözmeden görüşmeyi kapattı. Daha önce de bildirmiştim.,
+S0095,2026-11-06,E-posta,İstanbul,Temsilci sorunumu çözmeden görüşmeyi kapattı.,
+S0096,2026-10-09,Sosyal medya,Konya,Faturamda tanımadığım bir ek ücret var. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0097,05.11.2026,Telefon,İstanbul,Temsilci sorunumu çözmeden görüşmeyi kapattı. Aboneliğimi iptal etmeyi düşünüyorum.,22
+S0098,2026-10-30,E-posta,Ankara,Fiber altyapı geldi denildi ama bağlanamıyorum. Daha önce de bildirmiştim.,
+S0099,2026-11-03,Telefon,Trabzon,Kampanya indirimi faturaya yansımamış.,25
+S0100,2026-10-16,Sosyal medya,Bursa,Temsilci sorunumu çözmeden görüşmeyi kapattı. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0101,2026-10-25,Telefon,Antalya,Evde telefonum çekmiyor. Daha önce de bildirmiştim.,17
+S0102,2026-10-13,Telefon,İzmir,Kampanyadan haberim olmadan paketim değiştirilmiş. Çok mağdur oldum.,21
+S0103,2026-11-14,Telefon,Gaziantep,Söz verilen ek GB tanımlanmamış.,21
+S0104,2026-11-01,Telefon,Ankara,Yurt dışında hattım açılmadı. Aboneliğimi iptal etmeyi düşünüyorum.,23
+S0105,2026-11-03,Telefon,Trabzon,Üç gündür evde internet yok.,16
+S0106,2026-11-05,telefon ,Ankara,Taşıma sırasında hattım tamamen kapandı.,11
+S0107,2026-10-05,E-posta,Eskişehir,Üç gündür evde internet yok. Çok mağdur oldum.,
+S0108,2026-10-14,Telefon,Ankara,Modem sürekli bağlantıyı kesiyor. Daha önce de bildirmiştim.,20
+S0109,2026-10-24,Telefon,Eskişehir,Taahhüt edilen hızın yarısını bile alamıyorum.,21
+S0110,2026-10-15,Web form,Trabzon,Öğrenci kampanyasına geçemiyorum.,
+S0111,2026-11-01,Sosyal medya,Trabzon,İptal ettiğim hizmet hâlâ faturada görünüyor. Çok mağdur oldum.,
+S0112,2026-10-27,Telefon,Konya,Paket değişikliğim yapılmamış. Çok mağdur oldum.,14
+S0113,2026-11-18,Telefon,Ankara,"Bu ay faturam iki katına çıkmış, açıklama istiyorum.",14
+S0114,2026-10-19,Telefon,Ankara,Garantideki cihazım servisten dönmedi. Aboneliğimi iptal etmeyi düşünüyorum.,13
+S0115,2026-11-07,Telefon,Adana,Taşıma sırasında hattım tamamen kapandı.,13
+S0116,2026-10-04,E-posta,Antalya,Modem sürekli bağlantıyı kesiyor. Lütfen acil dönüş yapın.,
+S0117,2026-10-28,Mobil uygulama,Konya,Numara taşıma işlemim bir haftadır bekliyor. Çok mağdur oldum.,
+S0118,2026-10-28,Telefon,Adana,Temsilci sorunumu çözmeden görüşmeyi kapattı.,22
+S0119,2026-11-16,Web form,Trabzon,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Lütfen acil dönüş yapın.",
+S0120,2026-10-19,Web form,İstanbul,Söz verilen ek GB tanımlanmamış. Lütfen acil dönüş yapın.,
+S0121,2026-10-22,Telefon,Antalya,Aramalar sık sık kesiliyor. Aboneliğimi iptal etmeyi düşünüyorum.,11
+S0122,2026-10-20,Web form,Eskişehir,Öğrenci kampanyasına geçemiyorum.,
+S0123,2026-10-11,Telefon,Eskişehir,İptal ettiğim hizmet hâlâ faturada görünüyor. Daha önce de bildirmiştim.,8
+S0124,2026-10-22,E-posta,Trabzon,İptal ettiğim hizmet hâlâ faturada görünüyor. Lütfen acil dönüş yapın.,
+S0125,2026-10-16,Telefon,Konya,Evde telefonum çekmiyor. Çok mağdur oldum.,7
+S0126,2026-10-17,E-posta,Gaziantep,"Bu ay faturam iki katına çıkmış, açıklama istiyorum.",
+S0127,2026-10-27,Web form,Adana,Temsilci sorunumu çözmeden görüşmeyi kapattı. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0128,2026-11-18,Telefon,Antalya,Fiber altyapı geldi denildi ama bağlanamıyorum. Çok mağdur oldum.,17
+S0129,2026-11-02,Mobil uygulama,Bursa,Faturamda tanımadığım bir ek ücret var. Çok mağdur oldum.,
+S0130,2026-10-25,Web form,Trabzon,Garantideki cihazım servisten dönmedi. Çok mağdur oldum.,
+S0131,2026-11-25,Telefon,İstanbul,Verilen geri dönüş sözü tutulmadı. Aboneliğimi iptal etmeyi düşünüyorum.,6
+S0132,2026-11-01,Telefon,Adana,Taşıma sırasında hattım tamamen kapandı. Aboneliğimi iptal etmeyi düşünüyorum.,4
+S0133,2026-10-07,Telefon,İzmir,Fiber altyapı geldi denildi ama bağlanamıyorum.,6
+S0134,2026-11-16,Sosyal medya,Trabzon,Sipariş ettiğim telefon hâlâ gelmedi. Daha önce de bildirmiştim.,
+S0135,2026-10-01,E-posta,İzmir,Temsilci sorunumu çözmeden görüşmeyi kapattı. Daha önce de bildirmiştim.,
+S0136,2026-11-11,Sosyal medya,Antalya,Kargo hasarlı teslim edildi. Çok mağdur oldum.,
+S0137,2026-10-28,Sosyal medya,Ankara,Evde telefonum çekmiyor.,
+S0138,2026-11-07,Telefon,Antalya,Modem sürekli bağlantıyı kesiyor. Daha önce de bildirmiştim.,14
+S0139,2026-11-04,Telefon,Antalya,Kampanya indirimi faturaya yansımamış. Lütfen acil dönüş yapın.,16
+S0140,2026-10-16,Mobil uygulama,Bursa,Evde telefonum çekmiyor. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0141,2026-10-20,Telefon,Bursa,Öğrenci kampanyasına geçemiyorum. Aboneliğimi iptal etmeyi düşünüyorum.,2
+S0142,2026-10-15,Sosyal medya,Adana,Kampanya indirimi faturaya yansımamış. Lütfen acil dönüş yapın.,
+S0143,2026-11-14,Telefon,Adana,Aramalar sık sık kesiliyor. Aboneliğimi iptal etmeyi düşünüyorum.,24
+S0144,2026-11-21,Telefon,Eskişehir,Faturamda tanımadığım bir ek ücret var. Lütfen acil dönüş yapın.,25
+S0145,2026-10-13,Telefon,Bursa,Yeni aldığım hatta SMS gelmiyor. Lütfen acil dönüş yapın.,8
+S0146,2026-10-19,Telefon,Trabzon,Fiber altyapı geldi denildi ama bağlanamıyorum. Lütfen acil dönüş yapın.,21
+S0147,2026-11-01,Web form,İstanbul,Kargo hasarlı teslim edildi. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0148,2026-10-02,Mobil uygulama,İzmir,İptal ettiğim hizmet hâlâ faturada görünüyor.,
+S0149,2026-10-12,Web form,Trabzon,Kampanyadan haberim olmadan paketim değiştirilmiş.,
+S0150,2026-10-11,Telefon,İzmir,Taşıma sırasında hattım tamamen kapandı.,8
+S0151,2026-11-16,Web form,Konya,Taahhüt edilen hızın yarısını bile alamıyorum. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0152,2026-10-01,Telefon,Ankara,Kampanya indirimi faturaya yansımamış. Aboneliğimi iptal etmeyi düşünüyorum.,10
+S0153,2026-10-08,Mobil uygulama,Bursa,Taşıma sırasında hattım tamamen kapandı. Çok mağdur oldum.,
+S0154,2026-10-20,E-posta,Adana,"Bir saattir bekletiliyorum, kimse açmıyor.",
+S0155,2026-10-13,Telefon,Trabzon,Söz verilen ek GB tanımlanmamış. Çok mağdur oldum.,19
+S0156,2026-10-31,Telefon,Adana,Modem sürekli bağlantıyı kesiyor. Aboneliğimi iptal etmeyi düşünüyorum.,22
+S0157,2026-10-03,Web form,Ankara,Faturamda tanımadığım bir ek ücret var. Çok mağdur oldum.,
+S0158,2026-10-05,Mobil uygulama,Konya,Kampanya indirimi faturaya yansımamış. Çok mağdur oldum.,
+S0159,2026-11-09,telefon ,Konya,Taahhüt edilen hızın yarısını bile alamıyorum. Çok mağdur oldum.,10
+S0160,2026-11-18,Mobil uygulama,Ankara,Faturamda tanımadığım bir ek ücret var. Lütfen acil dönüş yapın.,
+S0161,2026-11-15,Web form,Adana,Kampanya indirimi faturaya yansımamış. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0162,2026-10-09,Web form,İzmir,"Bir saattir bekletiliyorum, kimse açmıyor. Çok mağdur oldum.",
+S0163,2026-11-19,Telefon,Bursa,Aynı sorun için dördüncü kez arıyorum. Çok mağdur oldum.,21
+S0164,2026-11-20,E-posta,Gaziantep,Evde telefonum çekmiyor. Daha önce de bildirmiştim.,
+S0165,2026-11-18,Telefon,Adana,Faturamda tanımadığım bir ek ücret var.,9
+S0166,2026-11-04,Telefon,Adana,Evde telefonum çekmiyor.,7
+S0167,2026-10-06,Telefon,Adana,Üç gündür evde internet yok. Aboneliğimi iptal etmeyi düşünüyorum.,5
+S0168,2026-10-09,Web form,Trabzon,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Lütfen acil dönüş yapın.",
+S0169,2026-11-24,E-posta,Ankara,Aynı sorun için dördüncü kez arıyorum. Çok mağdur oldum.,
+S0170,2026-10-18,Telefon,Antalya,Modem sürekli bağlantıyı kesiyor. Aboneliğimi iptal etmeyi düşünüyorum.,10
+S0171,2026-10-16,Telefon,Antalya,Fiber altyapı geldi denildi ama bağlanamıyorum. Lütfen acil dönüş yapın.,6
+S0172,2026-10-26,Telefon,Eskişehir,Fiber altyapı geldi denildi ama bağlanamıyorum. Lütfen acil dönüş yapın.,9
+S0173,2026-10-07,Sosyal medya,Trabzon,Paket değişikliğim yapılmamış.,
+S0174,2026-11-22,Telefon,Konya,Faturamda tanımadığım bir ek ücret var. Çok mağdur oldum.,16
+S0175,2026-10-04,Telefon,Gaziantep,"Bu ay faturam iki katına çıkmış, açıklama istiyorum.",21
+S0176,2026-11-25,Telefon,Gaziantep,Taahhüt edilen hızın yarısını bile alamıyorum.,16
+S0177,2026-11-08,Sosyal medya,Gaziantep,Kampanya indirimi faturaya yansımamış. Lütfen acil dönüş yapın.,
+S0178,2026-10-22,Telefon,Bursa,Kampanya indirimi faturaya yansımamış.,3
+S0179,2026-11-11,Telefon,Konya,Yeni aldığım hatta SMS gelmiyor. Çok mağdur oldum.,2
+S0180,2026-10-20,Telefon,İstanbul,İptal ettiğim hizmet hâlâ faturada görünüyor. Daha önce de bildirmiştim.,8
+S0181,2026-10-27,Telefon,Eskişehir,Yurt dışında hattım açılmadı. Daha önce de bildirmiştim.,14
+S0182,2026-10-11,Web form,Antalya,İptal ettiğim hizmet hâlâ faturada görünüyor. Çok mağdur oldum.,
+S0183,2026-10-27,Telefon,Gaziantep,Kampanyadan haberim olmadan paketim değiştirilmiş. Aboneliğimi iptal etmeyi düşünüyorum.,11
+S0184,2026-11-25,E-posta,Konya,Modem sürekli bağlantıyı kesiyor. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0185,2026-10-14,Telefon,İzmir,Öğrenci kampanyasına geçemiyorum.,15
+S0186,2026-10-26,Mobil uygulama,Konya,Verilen geri dönüş sözü tutulmadı. Lütfen acil dönüş yapın.,
+S0187,2026-10-04,Mobil uygulama,İzmir,İptal ettiğim hizmet hâlâ faturada görünüyor.,
+S0188,2026-10-24,Sosyal medya,Eskişehir,Yurt dışında hattım açılmadı. Lütfen acil dönüş yapın.,
+S0189,2026-10-11,Mobil uygulama,İzmir,Akşam saatlerinde internet çok yavaşlıyor.,
+S0190,2026-11-18,E-posta,Bursa,Taahhüt edilen hızın yarısını bile alamıyorum. Lütfen acil dönüş yapın.,
+S0191,2026-10-03,Web form,Konya,"Bir saattir bekletiliyorum, kimse açmıyor. Daha önce de bildirmiştim.",
+S0192,2026-10-25,Telefon,Gaziantep,Kargo hasarlı teslim edildi. Lütfen acil dönüş yapın.,24
+S0193,2026-11-09,E-posta,Bursa,Öğrenci kampanyasına geçemiyorum. Lütfen acil dönüş yapın.,
+S0194,03.10.2026,Web form,Eskişehir,Yurt dışında hattım açılmadı. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0195,2026-10-10,Telefon,Bursa,Akşam saatlerinde internet çok yavaşlıyor. Daha önce de bildirmiştim.,25
+S0196,2026-11-13,Telefon,Konya,"Bir saattir bekletiliyorum, kimse açmıyor. Aboneliğimi iptal etmeyi düşünüyorum.",23
+S0197,2026-11-05,E-posta,Antalya,Yeni aldığım hatta SMS gelmiyor. Çok mağdur oldum.,
+S0198,2026-10-28,Web form,Konya,Yeni aldığım hatta SMS gelmiyor. Daha önce de bildirmiştim.,
+S0199,2026-10-02,Telefon,Trabzon,Üç gündür evde internet yok. Lütfen acil dönüş yapın.,21
+S0200,2026-11-09,E-posta,Trabzon,Modem sürekli bağlantıyı kesiyor. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0201,2026-10-05,Telefon,Adana,Taahhüt edilen hızın yarısını bile alamıyorum.,13
+S0202,2026-11-02,Mobil uygulama,İstanbul,"Bir saattir bekletiliyorum, kimse açmıyor. Lütfen acil dönüş yapın.",
+S0203,2026-11-16,Telefon,Eskişehir,Faturamda tanımadığım bir ek ücret var.,25
+S0204,2026-10-25,Sosyal medya,İzmir,"Bir saattir bekletiliyorum, kimse açmıyor.",
+S0205,2026-11-16,Sosyal medya,Ankara,Numara taşıma işlemim bir haftadır bekliyor. Lütfen acil dönüş yapın.,
+S0206,2026-11-01,Telefon,Bursa,Numara taşıma işlemim bir haftadır bekliyor. Çok mağdur oldum.,7
+S0207,2026-10-17,Telefon,Gaziantep,Kampanyadan haberim olmadan paketim değiştirilmiş. Aboneliğimi iptal etmeyi düşünüyorum.,12
+S0208,2026-11-02,Web form,Bursa,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Çok mağdur oldum.",
+S0209,2026-10-16,Telefon,İstanbul,Söz verilen ek GB tanımlanmamış. Lütfen acil dönüş yapın.,13
+S0210,2026-11-10,Telefon,Konya,Üç gündür evde internet yok. Lütfen acil dönüş yapın.,23
+S0211,2026-10-17,Telefon,İstanbul,Aynı sorun için dördüncü kez arıyorum. Aboneliğimi iptal etmeyi düşünüyorum.,18
+S0212,2026-11-07,sosyal medya ,Ankara,Aramalar sık sık kesiliyor. Daha önce de bildirmiştim.,
+S0213,2026-10-26,Sosyal medya,Konya,Kampanyadan haberim olmadan paketim değiştirilmiş. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0214,2026-11-06,Telefon,Konya,Numara taşıma işlemim bir haftadır bekliyor. Aboneliğimi iptal etmeyi düşünüyorum.,13
+S0215,2026-11-09,Sosyal medya,İstanbul,Kampanya indirimi faturaya yansımamış. Daha önce de bildirmiştim.,
+S0216,2026-11-10,E-posta,Gaziantep,Taahhüt edilen hızın yarısını bile alamıyorum.,
+S0217,2026-10-15,Telefon,Gaziantep,Verilen geri dönüş sözü tutulmadı. Aboneliğimi iptal etmeyi düşünüyorum.,11
+S0218,2026-10-04,Telefon,Bursa,Evde telefonum çekmiyor.,17
+S0219,2026-11-06,Telefon,Ankara,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Çok mağdur oldum.",11
+S0220,2026-10-27,Mobil uygulama,Antalya,Yurt dışında hattım açılmadı. Lütfen acil dönüş yapın.,
+S0221,2026-11-23,Web form,İzmir,Modem sürekli bağlantıyı kesiyor.,
+S0222,2026-10-16,Sosyal medya,İzmir,Garantideki cihazım servisten dönmedi.,
+S0223,2026-10-10,E-posta,Antalya,İptal ettiğim hizmet hâlâ faturada görünüyor. Çok mağdur oldum.,
+S0224,2026-10-04,Sosyal medya,Eskişehir,Taşıma sırasında hattım tamamen kapandı. Daha önce de bildirmiştim.,
+S0225,2026-10-29,Mobil uygulama,Eskişehir,Öğrenci kampanyasına geçemiyorum. Lütfen acil dönüş yapın.,
+S0226,2026-10-01,Telefon,Eskişehir,Faturamda tanımadığım bir ek ücret var. Aboneliğimi iptal etmeyi düşünüyorum.,3
+S0227,2026-10-11,Telefon,İstanbul,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Daha önce de bildirmiştim.",5
+S0228,2026-10-13,Telefon,Bursa,Öğrenci kampanyasına geçemiyorum. Daha önce de bildirmiştim.,15
+S0229,2026-10-20,Telefon,İstanbul,İptal ettiğim hizmet hâlâ faturada görünüyor. Daha önce de bildirmiştim.,11
+S0230,2026-11-24,Web form,Trabzon,Faturamda tanımadığım bir ek ücret var. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0231,2026-10-07,Telefon,İstanbul,Faturamda tanımadığım bir ek ücret var. Çok mağdur oldum.,9
+S0232,2026-11-14,E-posta,Antalya,Sipariş ettiğim telefon hâlâ gelmedi. Çok mağdur oldum.,
+S0233,2026-11-13,Web form,Eskişehir,Kampanyadan haberim olmadan paketim değiştirilmiş. Çok mağdur oldum.,
+S0234,2026-10-14,Telefon,İstanbul,Söz verilen ek GB tanımlanmamış. Çok mağdur oldum.,18
+S0235,2026-11-23,Sosyal medya,Bursa,Kargo hasarlı teslim edildi. Çok mağdur oldum.,
+S0236,2026-10-25,Telefon,Bursa,İptal ettiğim hizmet hâlâ faturada görünüyor. Daha önce de bildirmiştim.,21
+S0237,2026-11-23,Mobil uygulama,İstanbul,Evde telefonum çekmiyor. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0238,2026-10-15,Mobil uygulama,Antalya,Numara taşıma işlemim bir haftadır bekliyor. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0239,2026-10-05,Mobil uygulama,İzmir,Söz verilen ek GB tanımlanmamış.,
+S0240,2026-10-07,Mobil uygulama,İzmir,Kampanya indirimi faturaya yansımamış. Lütfen acil dönüş yapın.,
+S0241,2026-10-02,Telefon,İstanbul,Paket değişikliğim yapılmamış.,6
+S0242,2026-11-07,E-posta,Konya,"Bu ay faturam iki katına çıkmış, açıklama istiyorum. Daha önce de bildirmiştim.",
+S0243,2026-10-05,E-posta,Adana,Sipariş ettiğim telefon hâlâ gelmedi. Lütfen acil dönüş yapın.,
+S0244,2026-10-08,Telefon,Ankara,Kampanya indirimi faturaya yansımamış. Aboneliğimi iptal etmeyi düşünüyorum.,3
+S0245,2026-10-07,E-posta,Bursa,Kampanya indirimi faturaya yansımamış. Çok mağdur oldum.,
+S0246,2026-10-17,Telefon,Antalya,Taahhüt edilen hızın yarısını bile alamıyorum.,13
+S0247,2026-10-24,Telefon,Eskişehir,Öğrenci kampanyasına geçemiyorum. Çok mağdur oldum.,21
+S0248,2026-10-02,E-posta,Adana,Paket değişikliğim yapılmamış. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0249,2026-10-07,Telefon,İstanbul,Yurt dışında hattım açılmadı.,17
+S0250,2026-10-19,Telefon,İstanbul,Yurt dışında hattım açılmadı. Çok mağdur oldum.,15
+S0251,2026-10-04,Telefon,Trabzon,"Bir saattir bekletiliyorum, kimse açmıyor. Aboneliğimi iptal etmeyi düşünüyorum.",13
+S0252,2026-11-22,Telefon,Gaziantep,Kampanyadan haberim olmadan paketim değiştirilmiş. Daha önce de bildirmiştim.,17
+S0253,2026-10-11,Telefon,Bursa,Üç gündür evde internet yok. Lütfen acil dönüş yapın.,8
+S0254,2026-11-10,E-posta,Ankara,İptal ettiğim hizmet hâlâ faturada görünüyor. Daha önce de bildirmiştim.,
+S0255,2026-11-10,Telefon,Ankara,Verilen geri dönüş sözü tutulmadı. Aboneliğimi iptal etmeyi düşünüyorum.,13
+S0256,2026-11-17,Telefon,İstanbul,Modem kurulumu için teknisyen gelmedi. Lütfen acil dönüş yapın.,15
+S0257,2026-10-28,Mobil uygulama,Eskişehir,Modem sürekli bağlantıyı kesiyor. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0258,2026-11-10,Telefon,İzmir,Numara taşıma işlemim bir haftadır bekliyor. Çok mağdur oldum.,16
+S0259,2026-11-03,Telefon,Eskişehir,Aramalar sık sık kesiliyor. Lütfen acil dönüş yapın.,16
+S0260,2026-11-14,E-posta,Antalya,Yurt dışında hattım açılmadı. Lütfen acil dönüş yapın.,
+S0261,2026-11-11,Sosyal medya,Bursa,Fiber altyapı geldi denildi ama bağlanamıyorum. Lütfen acil dönüş yapın.,
+S0262,2026-11-18,Sosyal medya,Gaziantep,Modem sürekli bağlantıyı kesiyor. Lütfen acil dönüş yapın.,
+S0263,2026-11-16,Telefon,Eskişehir,Taşıma sırasında hattım tamamen kapandı. Lütfen acil dönüş yapın.,21
+S0264,2026-10-13,Telefon,Ankara,"Bu ay faturam iki katına çıkmış, açıklama istiyorum.",25
+S0265,2026-10-10,telefon ,Antalya,İptal ettiğim hizmet hâlâ faturada görünüyor. Çok mağdur oldum.,11
+S0266,2026-11-10,Telefon,Bursa,İptal ettiğim hizmet hâlâ faturada görünüyor. Aboneliğimi iptal etmeyi düşünüyorum.,10
+S0267,2026-10-26,E-posta,Adana,"Bu ay faturam iki katına çıkmış, açıklama istiyorum. Daha önce de bildirmiştim.",
+S0268,2026-10-19,Web form,İstanbul,Numara taşıma işlemim bir haftadır bekliyor. Çok mağdur oldum.,
+S0269,2026-10-26,Telefon,Bursa,Öğrenci kampanyasına geçemiyorum. Daha önce de bildirmiştim.,25
+S0270,2026-11-11,Web form,Bursa,Yurt dışında hattım açılmadı. Lütfen acil dönüş yapın.,
+S0271,2026-10-30,Web form,Konya,Kampanyadan haberim olmadan paketim değiştirilmiş.,
+S0272,2026-10-16,E-posta,Adana,Kargo hasarlı teslim edildi. Çok mağdur oldum.,
+S0273,2026-10-31,Web form,İstanbul,Verilen geri dönüş sözü tutulmadı. Daha önce de bildirmiştim.,
+S0274,2026-11-25,Telefon,Konya,Paket değişikliğim yapılmamış. Aboneliğimi iptal etmeyi düşünüyorum.,22
+S0275,2026-10-07,Telefon,Eskişehir,Temsilci sorunumu çözmeden görüşmeyi kapattı. Lütfen acil dönüş yapın.,10
+S0276,2026-10-13,Mobil uygulama,Konya,Paket değişikliğim yapılmamış. Daha önce de bildirmiştim.,
+S0277,2026-10-14,Sosyal medya,Trabzon,Fiber altyapı geldi denildi ama bağlanamıyorum.,
+S0278,2026-11-23,Telefon,Konya,Öğrenci kampanyasına geçemiyorum. Aboneliğimi iptal etmeyi düşünüyorum.,18
+S0279,2026-11-13,Telefon,Eskişehir,Faturamda tanımadığım bir ek ücret var. Daha önce de bildirmiştim.,14
+S0280,2026-10-04,Telefon,Adana,Üç gündür evde internet yok.,10
+S0281,2026-10-27,Web form,Konya,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Çok mağdur oldum.",
+S0282,2026-10-20,Sosyal medya,Adana,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Lütfen acil dönüş yapın.",
+S0283,2026-10-26,Web form,Bursa,Numara taşıma işlemim bir haftadır bekliyor. Lütfen acil dönüş yapın.,
+S0284,2026-10-05,E-posta,Bursa,Garantideki cihazım servisten dönmedi. Daha önce de bildirmiştim.,
+S0285,2026-11-22,Telefon,Adana,Öğrenci kampanyasına geçemiyorum. Çok mağdur oldum.,13
+S0286,2026-11-11,Telefon,Konya,Temsilci sorunumu çözmeden görüşmeyi kapattı. Çok mağdur oldum.,17
+S0287,2026-11-13,Telefon,İzmir,Öğrenci kampanyasına geçemiyorum.,15
+S0288,2026-11-21,Telefon,Bursa,Aynı sorun için dördüncü kez arıyorum. Çok mağdur oldum.,13
+S0289,2026-10-28,Mobil uygulama,Ankara,Aramalar sık sık kesiliyor. Lütfen acil dönüş yapın.,
+S0290,2026-11-24,Web form,İstanbul,Sipariş ettiğim telefon hâlâ gelmedi. Daha önce de bildirmiştim.,
+S0291,20.11.2026,Telefon,Konya,Sipariş ettiğim telefon hâlâ gelmedi.,18
+S0292,2026-10-05,Sosyal medya,Antalya,Kampanya indirimi faturaya yansımamış. Daha önce de bildirmiştim.,
+S0293,2026-10-10,E-posta,Bursa,"Bu ay faturam iki katına çıkmış, açıklama istiyorum. Aboneliğimi iptal etmeyi düşünüyorum.",
+S0294,2026-10-10,Telefon,Eskişehir,Modem sürekli bağlantıyı kesiyor. Daha önce de bildirmiştim.,14
+S0295,2026-11-08,E-posta,Ankara,Modem kurulumu için teknisyen gelmedi. Lütfen acil dönüş yapın.,
+S0296,2026-10-14,Mobil uygulama,Ankara,Yeni aldığım hatta SMS gelmiyor.,
+S0297,2026-10-17,Web form,Bursa,Yurt dışında hattım açılmadı. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0298,2026-10-04,Web form,Trabzon,Yurt dışında hattım açılmadı. Aboneliğimi iptal etmeyi düşünüyorum.,
+S0299,2026-10-11,Mobil uygulama,Gaziantep,Akşam saatlerinde internet çok yavaşlıyor. Lütfen acil dönüş yapın.,
+S0300,2026-10-30,Sosyal medya,Gaziantep,Verilen geri dönüş sözü tutulmadı. Çok mağdur oldum.,
+S0301,2026-10-24,Web form,Adana,"Bir saattir bekletiliyorum, kimse açmıyor. Lütfen acil dönüş yapın.",
+S0302,2026-11-10,Sosyal medya,İstanbul,Paket değişikliğim yapılmamış. Daha önce de bildirmiştim.,
+S0303,2026-11-17,Telefon,Eskişehir,İptal ettiğim hizmet hâlâ faturada görünüyor. Aboneliğimi iptal etmeyi düşünüyorum.,5
+S0304,2026-10-10,Telefon,Adana,Temsilci sorunumu çözmeden görüşmeyi kapattı. Çok mağdur oldum.,8
+S0305,2026-11-12,Telefon,Trabzon,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Daha önce de bildirmiştim.",12
+S0306,2026-10-14,Telefon,Konya,Verilen geri dönüş sözü tutulmadı. Çok mağdur oldum.,15
+S0307,2026-11-22,Telefon,Konya,Yeni aldığım hatta SMS gelmiyor. Aboneliğimi iptal etmeyi düşünüyorum.,11
+S0308,2026-10-18,E-posta,Eskişehir,Taahhüt edilen hızın yarısını bile alamıyorum. Lütfen acil dönüş yapın.,
+S0309,2026-11-20,Telefon,Bursa,Kampanyadan haberim olmadan paketim değiştirilmiş. Çok mağdur oldum.,12
+S0310,2026-11-10,Telefon,Adana,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Aboneliğimi iptal etmeyi düşünüyorum.",3
+S0311,2026-10-04,Web form,Antalya,Evde telefonum çekmiyor.,
+S0312,2026-11-22,Web form,Gaziantep,Faturamda tanımadığım bir ek ücret var. Daha önce de bildirmiştim.,
+S0313,2026-11-09,Web form,Gaziantep,Kargo hasarlı teslim edildi. Daha önce de bildirmiştim.,
+S0314,2026-10-06,Telefon,Trabzon,Kargo hasarlı teslim edildi.,3
+S0315,2026-11-25,Telefon,Ankara,Paket değişikliğim yapılmamış. Çok mağdur oldum.,15
+S0316,2026-10-09,E-posta,Antalya,Modem kurulumu için teknisyen gelmedi. Çok mağdur oldum.,
+S0317,2026-10-03,Telefon,Adana,"Otomatik ödeme talimatım çalışmamış, gecikme faizi kesilmiş. Daha önce de bildirmiştim.",2
+S0318,2026-10-04,web form ,Gaziantep,Sipariş ettiğim telefon hâlâ gelmedi.,
+S0319,2026-10-27,Mobil uygulama,Adana,Verilen geri dönüş sözü tutulmadı.,
+S0320,2026-10-25,Mobil uygulama,Gaziantep,"Bu ay faturam iki katına çıkmış, açıklama istiyorum. Aboneliğimi iptal etmeyi düşünüyorum.",
